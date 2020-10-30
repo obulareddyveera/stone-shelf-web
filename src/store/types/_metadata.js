@@ -1,0 +1,3 @@
+export const metaDataTypes = {
+  GET_SIDEMENU_DETAILS_SUCCESS: "GET_SIDEMENU_DETAILS_SUCCESS",
+};
